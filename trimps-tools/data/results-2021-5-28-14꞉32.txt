@@ -1,0 +1,4 @@
+1 layout worked on. Time spent was 1 minute and 46.74 seconds. 
+Layout 1: 
+	 Core: epic/lightning:34/strength:30/condenser:14.5 
+	 String:  433324332473333333333243324332433247464646464627461542711451314427144511451124471144511451+7675+18 

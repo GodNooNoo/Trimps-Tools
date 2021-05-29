@@ -1,0 +1,5 @@
+1 layout worked on. Time spent was 14.58 seconds. 
+It took a total of 7973 cycles. Averaging 14.578364372253418 seconds per layout. 
+Layout 1: 
+	 Core: legendary/poison:80/lightning:38/runestones:72 
+	 String:  24141714145111164214511417641451111241417414164141624147141451111247145114124174511145111116161+8775+19 

@@ -1,0 +1,6 @@
+1 layout worked on. Time spent was 1 minute and 40.41 seconds. 
+It took a total of 36144 cycles. Averaging 1.67 minutes per layout. 
+A total of 17 improvements were made, averaging 18.0 improvements per layout. 
+Layout 1: 
+	 Core: epic/poison:39/condenser:11/runestones:30 
+	 String:  43324733333333332473333333333343324746464646462470114514144211451344471145111451+6654+16 

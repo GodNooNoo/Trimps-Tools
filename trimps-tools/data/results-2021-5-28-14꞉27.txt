@@ -1,0 +1,4 @@
+1 layout worked on. Time spent was 7.37 seconds. 
+Layout 1: 
+	 Core: epic/poison:35/lightning:15/strength:15 
+	 String:  4333243324733333333332473333333333243324746464646462474114511444241451114571145111451+7665+17 
